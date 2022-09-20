@@ -1,0 +1,25 @@
+{
+  "name": "allex_gatesessionlogger",
+  "version": "1.0.0",
+  "description": "AllexJS logger for Gate sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allex-loggers/gatesession.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "gate",
+    "session",
+    "logger"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-loggers/gatesession/issues"
+  },
+  "homepage": "https://github.com/allex-loggers/gatesession#readme"
+}
